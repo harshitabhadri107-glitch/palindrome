@@ -1,4 +1,4 @@
-s=input("Enter a string:")
+s="madam"
 
 if s==s[::-1]:
     print("palindrome")
